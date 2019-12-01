@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c631a27-2f9b-4d33-9982-7884558c623d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jinja2/tutorial/home.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static_assets/tutorial/static/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.7/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.7/site-packages/easy-install.pth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/env/lib/python3.7/site-packages/tutorial.egg-link" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.7/site-packages/tutorial.egg-link" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
