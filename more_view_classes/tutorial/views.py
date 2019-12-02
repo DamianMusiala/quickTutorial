@@ -1,7 +1,4 @@
-from pyramid.view import (
-    view_config,
-    view_defaults
-    )
+from pyramid.view import view_config, view_defaults
 
 
 @view_defaults(route_name='hello')
@@ -20,20 +17,16 @@ class TutorialViews(object):
     def home(self):
         return {'page_title': 'Home View'}
 
-    # Retrieving /howdy/first/last the first time
     @view_config(renderer='hello.pt')
     def hello(self):
         return {'page_title': 'Hello View'}
 
-    # Posting to /howdy/first/last via the "Edit" submit button
     @view_config(request_method='POST', renderer='edit.pt')
     def edit(self):
         new_name = self.request.params['new_name']
         return {'page_title': 'Edit View', 'new_name': new_name}
 
-    # Posting to /howdy/first/last via the "Delete" submit button
-    @view_config(request_method='POST', request_param='form.delete',
-                 renderer='delete.pt')
+    @view_config(request_method='POST', request_param='form.delete', renderer='delete.pt')
     def delete(self):
-        print ('Deleted')
+        print('Deleted')
         return {'page_title': 'Delete View'}

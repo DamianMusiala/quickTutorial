@@ -1,9 +1,8 @@
 import unittest
-
 from pyramid import testing
 
 
-class TutorialViewTests(unittest.TestCase):
+class TutorialViewTest(unittest.TestCase):
     def setUp(self):
         self.config = testing.setUp()
 
@@ -19,7 +18,7 @@ class TutorialViewTests(unittest.TestCase):
         self.assertEqual('Home View', response['page_title'])
 
 
-class TutorialFunctionalTests(unittest.TestCase):
+class TutorialFunctionaTest(unittest.TestCase):
     def setUp(self):
         from tutorial import main
         app = main({})

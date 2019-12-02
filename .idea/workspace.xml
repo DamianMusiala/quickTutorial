@@ -3,11 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="3c631a27-2f9b-4d33-9982-7884558c623d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/delete.pt" beforeDir="false" afterPath="$PROJECT_DIR$/more_view_classes/tutorial/delete.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/edit.pt" beforeDir="false" afterPath="$PROJECT_DIR$/more_view_classes/tutorial/edit.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/hello.pt" beforeDir="false" afterPath="$PROJECT_DIR$/more_view_classes/tutorial/hello.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/home.pt" beforeDir="false" afterPath="$PROJECT_DIR$/more_view_classes/tutorial/home.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/more_view_classes/tutorial/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/development.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial.egg-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial.egg-info/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/delete.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/edit.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/hello.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/home.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_view_classes/tutorial/views.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
